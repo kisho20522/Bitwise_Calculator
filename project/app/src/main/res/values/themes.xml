@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Bitwise_Calculator" parent="android:Theme.Material.Light.NoActionBar">
+<!--        <item name="colorPrimary">@color/orange</item>-->
+<!--        <item name="colorPrimaryVariant">@color/darkGray</item>-->
+<!--        <item name="colorOnPrimary">@color/white</item>-->
+
+<!--        <item name="android:statusBarColor" tools:targetApi="1">?attr/color/colorPrimaryVariant</item>-->
+    </style>
+
+</resources>
