@@ -20,7 +20,6 @@ Designed with a simple UI and simple interaction for learning and exploring bitw
 - 🔄 **Long-press backspace** to clear all input.
 - ✅ **Parentheses `()` supported** for operator precedence.
 - 🧠 **Error handling** for invalid or empty expressions.
-- ✨ **Modern UI** using Material Design components.
 
 ---
 
